@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://capy5sink.github.io/cctv-c7entertainment-com/sitemap.xml
